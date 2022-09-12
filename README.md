@@ -1,4 +1,4 @@
-## Eae, sou o Victor Hugo Pera
+# Eae, sou o Victor Hugo Pera
 ### bom dia,boa tarde ou boa noite 👋
 
 - 🔭 Atualmente estou procurando emprego na área de tecnologia.
@@ -15,7 +15,7 @@
   <img align="center" alt="Vitão-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitão-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitão-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lilpeep-pic" height="150" style="border-radius:50px;" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpm1.narvii.com%2F6650%2F578fd59fdc6593fccd6739eed432ec4c16f71cea_hq.jpg&imgrefurl=https%3A%2F%2Faminoapps.com%2Fc%2Fanime%2Fpage%2Fblog%2Frip-lil-peep%2F1et6_uda32D7wpDr3163Rq0BMojplB&tbnid=DgxzLJ69jJtuBM&vet=12ahUKEwj2sbullpD6AhUujJUCHdEMC7wQMygZegUIARD4AQ..i&docid=HMWGuXouYl6DDM&w=750&h=737&q=lilpeep%20anime&client=opera-gx&ved=2ahUKEwj2sbullpD6AhUujJUCHdEMC7wQMygZegUIARD4AQ">
+  <img align="right" alt="Lilpeep-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/824612492910002236/958164395047944222/lilpepper.jpeg">
 </div>
   
   ##
