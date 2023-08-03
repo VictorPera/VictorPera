@@ -20,6 +20,8 @@
   <img align="center" alt="Vitão-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitão-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Lilpeep-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/824612492910002236/958164395047944222/lilpepper.jpeg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
 </div>
   
   ##
