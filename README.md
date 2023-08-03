@@ -36,5 +36,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <a href="https://www.linkedin.com/in/victor-hugo-prado-pera-58b914238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/VictorH53669175" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
- ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+ ![snake animation](https://github.com/<VictorPera>/<VictorPera>/blob/output/github-contribution-grid-snake2.svg)
 </div>
