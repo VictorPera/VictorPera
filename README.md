@@ -2,7 +2,8 @@
 ### bom dia,boa tarde ou boa noite 👋
 
 - 🔭 Atualmente estou procurando emprego na área de tecnologia.
-- 🌱 Estudando Js e MySQL.
+- 🌱 Atualmente estudando na IFSP Araraquara o curso superior noturno TSI - Tecnologia em Sistemas para Internet.
+- ☕ Atuais tecnologias: HTML, CSS, Js, C, Java.
 - 😄 Pronomes ele/dele.
 - ⚡ Fun fact: O déjà-vu nada mais é do que o nosso cérebro falhando.
 
